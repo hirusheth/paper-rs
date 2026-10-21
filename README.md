@@ -20,7 +20,7 @@ library. Everything autosaves, and exports to PNG, SVG and PDF; Excalidraw files
 > shaders, icons, fonts or assets are used or committed. The UI and canvas text use
 > [Inter](https://rsms.me/inter/) 4.1 (SIL OFL 1.1), bundled in `assets/fonts/`.
 
-[![Featured on Made with REA](https://madewithrea.com/badges/featured.svg)](https://madewithrea.com/builds/dx-ball-1-07-reconstruction-with-rea-and-codex-checked-against-the-ori)
+[![Featured on Made with REA](https://madewithrea.com/badges/featured.svg)](https://madewithrea.com/builds/paper-rs)
 
 ## Reverse-engineered origin
 
